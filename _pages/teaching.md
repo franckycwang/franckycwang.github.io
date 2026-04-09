@@ -7,19 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-## Courses Taught
+### Teaching Assistant, Australian National University 
 
-### College of Business and Economics (CBE), Australian National University (ANU)
+* **Microeconomics 1 (Undergraduate)**
+    * 2024
+* **Advanced Microeconomic Analysis (Postgraduate)**
+    * 2024, 2025
+* **Optimisation for Economics and Financial Economics (Undergraduate and Postgraduate)**
+    * 2025, 2026
 
-* **Microeconomics 1 (ECON1101)**
-    * Role: Teaching Assistant (Tutor)
-    * Instructor: Associate Professor Paul Chen
-* **Macroeconomics 1 (ECON1102)**
-    * Role: Teaching Assistant (Tutor)
-    * Instructor: Dr. Cameron Gordon
-* **Economics 1 Honours (ECON1100)**
-    * Role: Teaching Assistant (Tutor)
-    * Instructor: Dr. Dana Hanna
-* **Macroeconomics 2 (ECON2102)**
-    * Role: Teaching Assistant (Tutor)
-    * Instructor: Associate Professor Chung Tran
+
+### Tutor, Lawrence University
+
+* **Symbolic Logic (Undergraduate)**
+    *2018, 2019
+* **Microeconomic Theory (Undergraduate)**
+    *2019
