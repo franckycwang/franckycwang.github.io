@@ -20,6 +20,6 @@ author_profile: true
 ### Tutor, Lawrence University
 
 * **Symbolic Logic (Undergraduate)**
-    *2018, 2019
+    * 2018, 2019
 * **Microeconomic Theory (Undergraduate)**
-    *2019
+    * 2019
