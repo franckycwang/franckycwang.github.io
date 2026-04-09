@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Yuechen (Franck) Wang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Franck Wang"
+description              : &description "Franck's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://franckycwang.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "franckycwang/franckycwang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Franck Wang"
+  name             : # "Franck Wang"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics"
   location         : "Canberra, Australia"
