@@ -16,7 +16,24 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <style>
-  #main {
-    min-height: 85vh;
+  /* 1. Tell the page to take up the full screen height */
+  html {
+    height: 100%;
+  }
+  
+  /* 2. Turn the body into the 'anchor' and add padding at the bottom so text doesn't hide behind the footer */
+  body {
+    position: relative;
+    min-height: 100vh;
+    padding-bottom: 150px; 
+  }
+  
+  /* 3. Lock the footer to the absolute bottom of that anchor */
+  .page__footer {
+    position: absolute !important;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
   }
 </style>
