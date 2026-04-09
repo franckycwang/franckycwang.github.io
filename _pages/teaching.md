@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+{% include base_path %}
+
 ## Courses Taught
 
 ### College of Business and Economics (CBE), Australian National University (ANU)
@@ -18,9 +20,6 @@ author_profile: true
 * **Economics 1 Honours (ECON1100)**
     * Role: Teaching Assistant (Tutor)
     * Instructor: Dr. Dana Hanna
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* **Macroeconomics 2 (ECON2102)**
+    * Role: Teaching Assistant (Tutor)
+    * Instructor: Associate Professor Chung Tran
