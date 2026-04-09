@@ -10,7 +10,7 @@ redirect_from:
 I am a third-year Ph.D. student in Economics at the Research School of Economics, Australian National University (ANU). My primary research interests are Game Theory and Decision Theory. 
 
 
-[Email](mailto:yuechen.wang@anu.edu.au) 
+Email: [yuechen.wang@anu.edu.au](mailto:yuechen.wang@anu.edu.au) 
 
 
 
